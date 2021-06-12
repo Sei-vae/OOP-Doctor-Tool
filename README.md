@@ -1,6 +1,6 @@
 # OOP-Doctor-Tool
 
-<h align="center">OOP Entrance Project.</h>
+<p align="center">OOP Entrance Project.</p>
 
 <p align="center">
 Why OOP?
