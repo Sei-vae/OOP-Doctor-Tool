@@ -1,9 +1,10 @@
 # OOP-Doctor-Tool
 
-<p align="center">OOP Entrance Project.</p>
-<p align="center"></p>
+<h align="center">OOP Entrance Project.</h>
 
-**Why OOP?**
+<p align="center">
+Why OOP?
+</p>
 
 ```
 OOP is faster and easier to execute
