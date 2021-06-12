@@ -1,0 +1,12 @@
+
+.vs/Praxis/v16/.suo
+*.exe
+*.exe
+*.pdb
+Praxis/bin/Debug/Praxis.pdb
+Praxis/bin/Debug/Praxis.exe
+Praxis/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Praxis/obj/Debug/Praxis.csproj.FileListAbsolute.txt
+Praxis/obj/Debug/Praxis.csprojAssemblyReference.cache
+Praxis/obj/Debug/Praxis.exe
+Praxis/obj/Debug/Praxis.pdb

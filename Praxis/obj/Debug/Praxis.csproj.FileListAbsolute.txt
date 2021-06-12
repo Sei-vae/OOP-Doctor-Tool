@@ -5,3 +5,10 @@ C:\Users\Sei\Desktop\Praxis\Praxis\obj\Debug\Praxis.csprojAssemblyReference.cach
 C:\Users\Sei\Desktop\Praxis\Praxis\obj\Debug\Praxis.csproj.CoreCompileInputs.cache
 C:\Users\Sei\Desktop\Praxis\Praxis\obj\Debug\Praxis.exe
 C:\Users\Sei\Desktop\Praxis\Praxis\obj\Debug\Praxis.pdb
+C:\Users\Sei\Desktop\Code\GitHub\OOP-Doctor-Tool\Praxis\bin\Debug\Praxis.exe.config
+C:\Users\Sei\Desktop\Code\GitHub\OOP-Doctor-Tool\Praxis\bin\Debug\Praxis.exe
+C:\Users\Sei\Desktop\Code\GitHub\OOP-Doctor-Tool\Praxis\bin\Debug\Praxis.pdb
+C:\Users\Sei\Desktop\Code\GitHub\OOP-Doctor-Tool\Praxis\obj\Debug\Praxis.csprojAssemblyReference.cache
+C:\Users\Sei\Desktop\Code\GitHub\OOP-Doctor-Tool\Praxis\obj\Debug\Praxis.csproj.CoreCompileInputs.cache
+C:\Users\Sei\Desktop\Code\GitHub\OOP-Doctor-Tool\Praxis\obj\Debug\Praxis.exe
+C:\Users\Sei\Desktop\Code\GitHub\OOP-Doctor-Tool\Praxis\obj\Debug\Praxis.pdb
